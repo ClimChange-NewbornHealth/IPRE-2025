@@ -37,12 +37,12 @@ Repository: [Heat Waves metrics in Santiago]()
 <div style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px;">
 
   <div style="flex: 1; text-align: center;">
-    <img src="https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Invierno_RegValparaiso/2022_INVIERNO_VALPARAISO_NDVI.png" alt="NDVI Invierno" style="max-width: 50%; height: auto;">
+    <img src="https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Invierno_RegValparaiso/2022_INVIERNO_VALPARAISO_NDVI.png" alt="NDVI Invierno" style="width: 300; height: auto;">
     <p><strong>NDVI Invierno</strong></p>
   </div>
 
   <div style="flex: 1; text-align: center;">
-    <img src="https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Verano_RegValparaiso/2022_VERANO_NDVI.png" alt="NDVI Verano" style="max-width: 50%; height: auto;">
+    <img src="https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Verano_RegValparaiso/2022_VERANO_NDVI.png" alt="NDVI Verano" style="width: 300; height: auto;">
     <p><strong>NDVI Verano</strong></p>
   </div>
 
