@@ -27,3 +27,21 @@ Repository: [Green Spaces in Valparaíso y Santiago](https://github.com/barbarap
 :mailbox_with_mail: **Manuel Blanco** (<manuelblanco@uc.cl>) conducted a descriptive study of metrics of heatwaves in the urban municipalities of the Metropolitian Region of Chile. He focused on exposure to 3 or more days of temperatures >30 degrees Celius, >90th, 95th, 99th percentile, and the excess heat factor during the period of 1980-2020. 
 
 Repository: [Heat Waves metrics in Santiago]()
+
+
+
+| ![NDVI Invierno](https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Invierno_RegValparaiso/2022_INVIERNO_VALPARAISO_NDVI.png){width=300px} | ![NDVI Verano](https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Verano_RegValparaiso/2022_VERANO_NDVI.png){width=300px} |
+
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Invierno_RegValparaiso/2022_INVIERNO_VALPARAISO_NDVI.png" alt="NDVI Invierno" style="width: 300px; height: auto;">
+    <p><strong>NDVI Invierno</strong></p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Verano_RegValparaiso/2022_VERANO_NDVI.png" alt="NDVI Verano" style="width: 300px; height: auto;">
+    <p><strong>NDVI Verano</strong></p>
+  </div>
+
+</div>
