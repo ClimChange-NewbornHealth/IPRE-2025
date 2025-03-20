@@ -16,19 +16,19 @@ The INVESTIGACIÓN PARA PREGRADO VERANO (IPRE) 2025 projects were an opportunity
 
 Repository: [Green Spaces in Valparaíso y Santiago](https://github.com/barbarapatino/Green_Spaces_IPRE/tree/main)
 
-<div style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+**Serie NDVI en temporada de Invierno para Valparaiso**
 
-  <div style="flex: 1; text-align: center;">
-    <img src="https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Invierno_RegValparaiso/2022_INVIERNO_VALPARAISO_NDVI.png" alt="NDVI Invierno" style="width: 400px; height: auto;">
-    <p><strong>NDVI Invierno</strong></p>
-  </div>
+![](https://github.com/ClimChange-NewbornHealth/IPRE-2025/blob/main/Results/gifs/NDVI_INVIERNO_R_VALPARAISO.gif)
 
-  <div style="flex: 1; text-align: center;">
-    <img src="https://raw.githubusercontent.com/barbarapatino/Programa-de-investigacion-en-pregrado-IPRE-Green-Spaces-in-Valparaiso/refs/heads/main/output_analysis/IMG_MAPA_R_Valparaiso/IMG_MAPA_NDVI_Verano_RegValparaiso/2022_VERANO_NDVI.png" alt="NDVI Verano" style="width: 400px; height: auto;">
-    <p><strong>NDVI Verano</strong></p>
-  </div>
+**Serie NDVI en temporada de Invierno para el Gran Valparaiso**
 
-</div>
+![](https://github.com/ClimChange-NewbornHealth/IPRE-2025/blob/main/Results/gifs/NDVI_INVIERNO_R_VALPARAISO.gif)
 
-![Descripción del GIF](https://github.com/ClimChange-NewbornHealth/IPRE-2025/blob/main/Results/gifs/NDVI_INVIERNO_GRAN_VALPARAISO.gif)
+**Serie NDVI en temporada de Verano para Valparaiso**
+
+![](https://github.com/ClimChange-NewbornHealth/IPRE-2025/blob/main/Results/gifs/NDVI_VERANO_R_VALPARAISO.gif)
+
+**Serie NDVI en temporada de Verano para el Gran Valparaiso**
+
+![](https://github.com/ClimChange-NewbornHealth/IPRE-2025/blob/main/Results/gifs/NDVI_VERANO_GRAN_VALPARAISO.gif)
 
