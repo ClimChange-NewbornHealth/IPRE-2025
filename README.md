@@ -30,5 +30,5 @@ Repository: [Green Spaces in Valparaíso y Santiago](https://github.com/barbarap
 
 </div>
 
-Test 
+![Descripción del GIF](https://github.com/ClimChange-NewbornHealth/IPRE-2025/blob/main/Results/gifs/NDVI_INVIERNO_GRAN_VALPARAISO.gif)
 
