@@ -30,6 +30,3 @@ Repository: [Green Spaces in Valparaíso y Santiago](https://github.com/barbarap
 
 </div>
 
-:mailbox_with_mail: **Manuel Blanco** (<manuelblanco@uc.cl>) conducted a descriptive study of metrics of heatwaves in the urban municipalities of the Metropolitian Region of Chile. He focused on exposure to 3 or more days of temperatures >30 degrees Celius, >90th, 95th, 99th percentile, and the excess heat factor during the period of 1980-2020. 
-
-Repository: [Heat Waves metrics in Santiago]()
