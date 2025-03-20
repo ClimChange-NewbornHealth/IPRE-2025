@@ -22,7 +22,7 @@ Repository: [Green Spaces in Valparaíso y Santiago](https://github.com/barbarap
 
 **Serie NDVI en temporada de Invierno para el Gran Valparaiso**
 
-![](https://github.com/ClimChange-NewbornHealth/IPRE-2025/blob/main/Results/gifs/NDVI_INVIERNO_R_VALPARAISO.gif)
+![](https://github.com/ClimChange-NewbornHealth/IPRE-2025/blob/main/Results/gifs/NDVI_INVIERNO_GRAN_VALPARAISO.gif)
 
 **Serie NDVI en temporada de Verano para Valparaiso**
 
